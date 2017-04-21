@@ -1,0 +1,6 @@
+{
+  "name": "mojii",
+  "description": "mojii API",
+  "repository": "https://github.com/Wheeney/mojii",
+  "keywords":["node","express"]
+}
